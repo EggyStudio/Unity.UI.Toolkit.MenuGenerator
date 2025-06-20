@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Test
   Texture: {fileID: 0}
-  Data: []
+  Data:
+  - {fileID: 11400000, guid: f9edaaa396967084db87aff78a74c9a0, type: 2}
